@@ -9,8 +9,8 @@ All rights reserved.
 			Updates are marked //Kevin
 			Terrys sats() is replaced by v12's native satellites()
 			ToDo - Add Vertical velocity parsing
-			ToDo - Add Test Example
-
+			Warning, only testing so far is using the example test harness "static_test.pde"
+			
 9/8/2010	Modified by Terry Baume (terry@bogaurd.net)
 			Support for Ublox NMEA extension PUBX 00
 			Method to retrieve number of sats tracked
